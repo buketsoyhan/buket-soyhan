@@ -1,0 +1,26 @@
+{
+  "name": "buket-soyhan",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buket": "echo 'Benim adım Buket'",
+    "start": "npm index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Buket Soyhan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.7",
+    "nodemailer": "^6.4.12",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buketsoyhan/buket-soyhan.git"
+  }
+}
